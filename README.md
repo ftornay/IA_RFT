@@ -1,0 +1,1 @@
+# Exploring the sense of self and empathy of large language models through relational frame theory
